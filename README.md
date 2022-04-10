@@ -12,11 +12,6 @@
       ●	Please do not ask any questions related to these tasks to Prof. Nipun Batra or Zeel Patel over mail or any other medium. You are allowed to make all the required assumptions on your own but mention them clearly.
       
      
-   * [Question 1](https://github.com/Anirud-Mohan/Machine-Learning#question-1)
-   * [Question 2](https://github.com/Anirud-Mohan/Machine-Learning#question-2)
-   * [Question 3](https://github.com/Anirud-Mohan/Machine-Learning#question-3)
-   * [Question 4](https://github.com/Anirud-Mohan/Machine-Learning#question-4)
-   * [Refrences](https://github.com/Anirud-Mohan/Machine-Learning#refrences)
    
 # Tasks
 
